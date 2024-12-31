@@ -1,6 +1,6 @@
 ## **This is my personal Portfolio website**
 
-![image Alt](https://github.com/user-attachments/assets/2ed4b245-ef28-49b1-9a34-548798abc389)
+![image Alt](https://github.com/ShoaibSikder/Employee-Record-System/blob/main/Employee-Record-System-master/EmployeeRecordSystem/src/images/Screenshot%202024-12-31%20234856.png)
 
 ## **Features**
 
